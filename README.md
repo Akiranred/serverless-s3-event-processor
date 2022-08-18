@@ -4,7 +4,7 @@ Lets say, we have to do some action for every object uploaded / added to S3 Buck
 
 ![AWS Serverless S3 Real Time Event Processor](images/miztiik-serverless-s3-event-processor.png)
 
-#### Follow this article in [Youtube](https://youtube.com/c/valaxytechnologies)
+#### 
 
 0. ### Prerequisites
 
@@ -13,7 +13,7 @@ Lets say, we have to do some action for every object uploaded / added to S3 Buck
 1. ## Clone the repository
 
    ```sh
-   git clone https://github.com/miztiik/serverless-s3-event-processor.git
+   git clone https://github.com/Akiranred/serverless-s3-event-processor.git
    ```
 
 1. ## Customize the deployment
